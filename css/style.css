@@ -353,8 +353,8 @@ body.section-show .section.active{
 body.section-show .transition-mask{
 	position:absolute;
 	top:260px;
-	height:500px;
-	width:500px;
+	height:250px;
+	width:250px;
 	left:0;
 	right:0;
 	margin:auto;
