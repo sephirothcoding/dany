@@ -463,8 +463,8 @@ body.section-show .transition-mask:before{
 }
 
 .front-person-img{
-	width:500px;
-	height:500px;
+	width:250px;
+	height:250px;
 	overflow:hidden;
 	background-image: url("https://xatimg.com/image/Ma2KzXwnr2fW.gif");
 	position:relative;
